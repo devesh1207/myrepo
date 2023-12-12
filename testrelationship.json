@@ -1,0 +1,11 @@
+[
+    {
+        "relationshipId": "deveshTestid" ,
+        "name": "deveshTestName",
+        "source":"deveshTestsource",
+        "target":"deveshTestsource",
+        "action":"deveshTestaction",
+        "timeStamp": "2023-12-08T18:28:31.7685229Z"
+    }
+]
+
